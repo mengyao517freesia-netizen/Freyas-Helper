@@ -1,0 +1,6 @@
+{
+  "name": "需求分析助手",
+  "description": "智能拆解需求步骤、生成客户回复并自动填充 Slack 提单模版",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
