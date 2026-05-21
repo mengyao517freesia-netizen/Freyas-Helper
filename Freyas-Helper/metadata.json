@@ -1,8 +1,0 @@
-{
-  "name": "AD-OPS",
-  "description": "Freya's Helper for AdOps efficiency - demand decomposition, auto-reply, ticker formatting and priority grouping lookup.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
